@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/selviser-app/static/css/main.e6c13ad2.css",
-    "main.js": "/selviser-app/static/js/main.b17df117.js",
-    "static/js/453.270372f8.chunk.js": "/selviser-app/static/js/453.270372f8.chunk.js",
-    "index.html": "/selviser-app/index.html",
-    "main.e6c13ad2.css.map": "/selviser-app/static/css/main.e6c13ad2.css.map",
-    "main.b17df117.js.map": "/selviser-app/static/js/main.b17df117.js.map",
-    "453.270372f8.chunk.js.map": "/selviser-app/static/js/453.270372f8.chunk.js.map"
+    "main.css": "/selviser-franchise/static/css/main.e6c13ad2.css",
+    "main.js": "/selviser-franchise/static/js/main.bf27b265.js",
+    "index.html": "/selviser-franchise/index.html",
+    "main.e6c13ad2.css.map": "/selviser-franchise/static/css/main.e6c13ad2.css.map",
+    "main.bf27b265.js.map": "/selviser-franchise/static/js/main.bf27b265.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b17df117.js"
+    "static/js/main.bf27b265.js"
   ]
 }
